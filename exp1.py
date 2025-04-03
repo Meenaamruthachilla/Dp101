@@ -16,7 +16,7 @@ emoji_dict = {
 
     # Add more emoji aliases and their corresponding emojis here as needed
 }
-
+#adding a new commit
 # Function to convert emoji aliases to actual emojis
 def emojize_text(text):
     for code, emoji in emoji_dict.items():
